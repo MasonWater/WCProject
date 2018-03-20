@@ -1,0 +1,4 @@
+d:\TESTC\123.c,字符数：275
+d:\TESTC\123.c,单词数：23
+d:\TESTC\HHH\234.c,字符数：0
+d:\TESTC\HHH\234.c,单词数：0
